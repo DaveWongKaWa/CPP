@@ -1315,14 +1315,13 @@ void f5() {
 void credit() {
     cout << "\n"; 
     cout << string(51, '-') << "\n";
-    cout << setw(15) << "|Student Name" << setw(13) << "|Student ID" << setw(8) << "|Class" << setw(15) << "|Tutorial Group" << "|" << "\n";
+    cout << setw(15) << "|Student Name" << setw(14) << "|Student ID" << setw(8) << "|Class" << setw(15) << "|Tutorial Group" << "|" << "\n";
     cout << string(51, '-') << "\n";
-    cout << setw(15) << "|Wong Ka Wa" << setw(13) << "|20199071A" << setw(8) << "|101" << setw(15) << "|B" << "|" << "\n";
-    cout << setw(15) << "|Wong Ka Wa" << setw(13) << "|20199071A" << setw(8) << "|101" << setw(15) << "|B" << "|" << "\n";
-    cout << setw(15) << "|Wong Ka Wa" << setw(13) << "|20199071A" << setw(8) << "|101" << setw(15) << "|B" << "|" << "\n";
-    cout << setw(15) << "|Wong Ka Wa" << setw(13) << "|20199071A" << setw(8) << "|101" << setw(15) << "|B" << "|" << "\n";
-    cout << setw(15) << "|Wong Ka Wa" << setw(13) << "|20199071A" << setw(8) << "|101" << setw(15) << "|B" << "|" << "\n";
-    cout << setw(15) << "|Wong Ka Wa" << setw(13) << "|20199071A" << setw(8) << "|101" << setw(15) << "|B" << "|" << "\n";
+    cout << setw(15) << "|Wong Ka Wa" << setw(14) << "|20199071A" << setw(8) << "|101" << setw(15) << "|B" << "|" << "\n";
+    cout << setw(15) << "|Tung Chun Hei" << setw(14) << "|20093934A" << setw(8) << "|101" << setw(15) << "|B" << "|" << "\n";
+    cout << setw(15) << "|Cheung Ho Wai" << setw(14) << "|20029137A" << setw(8) << "|101" << setw(15) << "|B" << "|" << "\n";
+    cout << setw(15) << "|Tse Kong Hin" << setw(14) << "|20211562A" << setw(8) << "|101" << setw(15) << "|B" << "|" << "\n";
+    cout << setw(15) << "|Chan Lok Hin" << setw(14) << "|20032074A" << setw(8) << "|101" << setw(15) << "|B" << "|" << "\n";
     cout << string(51, '-') << "\n";
 
     cout << "Thank you for using our service. " << "\n";
